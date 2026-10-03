@@ -3,7 +3,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WoMakersCode](https://img.shields.io/badge/WoMakersCode-Bootcamp%20.NET-E5007D?style=for-the-badge)
-![Exercícios](https://img.shields.io/badge/exerc%C3%ADcios-8%2F19%20conclu%C3%ADdos-yellow?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/exerc%C3%ADcios-9%2F19%20conclu%C3%ADdos-yellow?style=for-the-badge)
 ![Nível](https://img.shields.io/badge/n%C3%ADvel-b%C3%A1sico-blue?style=for-the-badge)
 
 Repositório único com as resoluções de **todos os exercícios** da **Lista de Exercícios de C#** (atividade individual) do bootcamp **.NET** da [WoMakersCode](https://womakerscode.org), focada nos fundamentos da linguagem.
@@ -66,7 +66,7 @@ dotnet run
 |---|-----------|---------|--------|
 | 1 | Soma de dois números | [`exercicio1.cs`](exercicio1.cs) | ✅ Concluído |
 | 2 | Antecessor e sucessor | [`exercicio2.cs`](exercicio2.cs) | ✅ Concluído |
-| 3 | Área de um retângulo | [`exercicio3.cs`](exercicio3.cs) | 🔧 Em revisão |
+| 3 | Área de um retângulo | [`exercicio3.cs`](exercicio3.cs) | ✅ Concluído |
 | 4 | Conversor de moedas | [`exercicio4.cs`](exercicio4.cs) | 🔧 Em revisão |
 | 5 | Calculadora simples | [`exercicio5.cs`](exercicio5.cs) | ✅ Concluído |
 | 6 | Contagem crescente (1 a 100) | [`exercicio6.cs`](exercicio6.cs) | ✅ Concluído |

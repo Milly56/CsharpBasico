@@ -1,14 +1,15 @@
-using System.Globalization;
-
-decimal valor = 0;
-Console.Write("Digite um valor: ");
-if(decimal.TryParse(Console.ReadLine(), out decimal v))
+decimal reais = 0;
+Console.Write("Digite um reais: ");
+if(decimal.TryParse(Console.ReadLine(), out decimal r))
 {
-    valor = v;
+    reais = r;
 }
+decimal cotacao = 0;
+Console.Write("Digite a cotação em euro:");
+if(decimal.TryParse(Console.ReadLine(),out decimal c))
+{
+    cotacao = c;
+}
+     decimal dolar = r/c;
 
-string valoremReais = valor.ToString("C", new CultureInfo("pt-BR"));
-Console.WriteLine($"O valor em reais é: {valoremReais}");
-
-string valorFormatado = valor.ToString("C", new CultureInfo("En-US"));
-Console.WriteLine($"O valor formatado é: {valorFormatado}");
+     Console.WriteLine($"Esse valor representa {dolar:F2} em euros");

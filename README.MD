@@ -67,7 +67,7 @@ dotnet run
 | 1 | Soma de dois números | [`exercicio1.cs`](exercicio1.cs) | ✅ Concluído |
 | 2 | Antecessor e sucessor | [`exercicio2.cs`](exercicio2.cs) | ✅ Concluído |
 | 3 | Área de um retângulo | [`exercicio3.cs`](exercicio3.cs) | ✅ Concluído |
-| 4 | Conversor de moedas | [`exercicio4.cs`](exercicio4.cs) | 🔧 Em revisão |
+| 4 | Conversor de moedas | [`exercicio4.cs`](exercicio4.cs) | ✅️ Concluído |
 | 5 | Calculadora simples | [`exercicio5.cs`](exercicio5.cs) | ✅ Concluído |
 | 6 | Contagem crescente (1 a 100) | [`exercicio6.cs`](exercicio6.cs) | ✅ Concluído |
 | 7 | Contagem regressiva (50 a 1) | [`exercicio7.cs`](exercicio7.cs) | ✅ Concluído |
@@ -75,7 +75,7 @@ dotnet run
 | 9 | Soma dos números pares | [`exercicio9.cs`](exercicio9.cs) | ✅ Concluído |
 | 10 | Login simples | [`exercicio10.cs`](exercicio10.cs) | 🔧 Em revisão |
 | 11 | Soma até digitar zero | [`exercicio11.cs`](exercicio11.cs) | 🔧 Em revisão |
-| 12 | Contador de caracteres | [`exercicio12.cs`](exercicio12.cs) | 🔧 Em revisão |
+| 12 | Contador de caracteres | [`exercicio12.cs`](exercicio12.cs) | ✅️ Concluído |
 | 13 | Verificador de senha | [`exercicio13.cs`](exercicio13.cs) | ✅ Concluído |
 | 14 | Maior elemento | [`exercicio14.cs`](exercicio14.cs) | ⏳ Pendente |
 | 15 | Média de um vetor | [`exercicio15.cs`](exercicio15.cs) | ⏳ Pendente |

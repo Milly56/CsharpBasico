@@ -3,7 +3,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WoMakersCode](https://img.shields.io/badge/WoMakersCode-Bootcamp%20.NET-E5007D?style=for-the-badge)
-![Exercícios](https://img.shields.io/badge/exerc%C3%ADcios-15%2F19%20conclu%C3%ADdos-yellow?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/exerc%C3%ADcios-16%2F19%20conclu%C3%ADdos-yellow?style=for-the-badge)
 ![Nível](https://img.shields.io/badge/n%C3%ADvel-b%C3%A1sico-blue?style=for-the-badge)
 
 Repositório único com as resoluções de **todos os exercícios** da **Lista de Exercícios de C#** (atividade individual) do bootcamp **.NET** da [WoMakersCode](https://womakerscode.org), focada nos fundamentos da linguagem.
@@ -79,7 +79,7 @@ dotnet run
 | 13 | Verificador de senha | [`exercicio13.cs`](exercicio13.cs) | ✅ Concluído |
 | 14 | Maior elemento | [`exercicio14.cs`](exercicio14.cs) | ✅ Concluído |
 | 15 | Média de um vetor | [`exercicio15.cs`](exercicio15.cs) | ✅ Concluído |
-| 16 | Contagem de pares | [`exercicio16.cs`](exercicio16.cs) | ⏳ Pendente |
+| 16 | Contagem de pares | [`exercicio16.cs`](exercicio16.cs) | ✅ Concluído |
 | 17 | Ordem inversa | [`exercicio17.cs`](exercicio17.cs) | ⏳ Pendente |
 | 18 | Jogo da senha | [`exercicio18.cs`](exercicio18.cs) | ⏳ Pendente |
 | 19 | Caixa eletrônico | [`exercicio19.cs`](exercicio19.cs) | ⏳ Pendente |

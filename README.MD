@@ -3,7 +3,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WoMakersCode](https://img.shields.io/badge/WoMakersCode-Bootcamp%20.NET-E5007D?style=for-the-badge)
-![Exercícios](https://img.shields.io/badge/exerc%C3%ADcios-12%2F19%20conclu%C3%ADdos-yellow?style=for-the-badge)
+![Exercícios](https://img.shields.io/badge/exerc%C3%ADcios-13%2F19%20conclu%C3%ADdos-yellow?style=for-the-badge)
 ![Nível](https://img.shields.io/badge/n%C3%ADvel-b%C3%A1sico-blue?style=for-the-badge)
 
 Repositório único com as resoluções de **todos os exercícios** da **Lista de Exercícios de C#** (atividade individual) do bootcamp **.NET** da [WoMakersCode](https://womakerscode.org), focada nos fundamentos da linguagem.
@@ -74,7 +74,7 @@ dotnet run
 | 8 | Tabuada | [`exercicio8.cs`](exercicio8.cs) | ✅ Concluído |
 | 9 | Soma dos números pares | [`exercicio9.cs`](exercicio9.cs) | ✅ Concluído |
 | 10 | Login simples | [`exercicio10.cs`](exercicio10.cs) | ✅ Concluído |
-| 11 | Soma até digitar zero | [`exercicio11.cs`](exercicio11.cs) | 🔧 Em revisão |
+| 11 | Soma até digitar zero | [`exercicio11.cs`](exercicio11.cs) | ✅ Concluído |
 | 12 | Contador de caracteres | [`exercicio12.cs`](exercicio12.cs) | ✅ Concluído |
 | 13 | Verificador de senha | [`exercicio13.cs`](exercicio13.cs) | ✅ Concluído |
 | 14 | Maior elemento | [`exercicio14.cs`](exercicio14.cs) | ⏳ Pendente |
